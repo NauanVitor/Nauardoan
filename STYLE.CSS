@@ -2,6 +2,7 @@
 --cor-de-fundo: #ff94df;
 --texto: #ffffff;
 }
+/* ele-é-o-homem-mais-fiel-do-mundo */
 body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);

@@ -1,6 +1,6 @@
 :root{
 --cor-de-fundo: #ff94df;
---texto: #6ac945;
+--texto: #ff94df;
 }
 body{
     background-color: var(--cor-de-fundo);

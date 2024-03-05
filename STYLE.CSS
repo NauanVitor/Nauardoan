@@ -6,3 +6,8 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
+
+header{display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

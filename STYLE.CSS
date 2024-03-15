@@ -11,3 +11,6 @@ header{display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
+.img-nitro{
+    width: 20%;
+}

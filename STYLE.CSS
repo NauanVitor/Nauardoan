@@ -6,6 +6,10 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
+footer{
+    background-color: var(black);
+    color: var(--texto);
+}
 
 header{display: flex;
     flex-direction: row;

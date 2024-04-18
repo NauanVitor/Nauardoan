@@ -37,4 +37,5 @@ header{display: flex;
 }
 a{
     color: black;
+    text-decoration: none;
 }

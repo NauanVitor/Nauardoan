@@ -19,7 +19,7 @@ header{display: flex;
     display: flex;
 }
 
-.equipe{
+#equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }

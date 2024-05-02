@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&display=swap');
+
 :root{
 --cor-de-fundo: #9f94ff;
 --texto: #ffffff;
@@ -5,6 +7,9 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
+    font-family: "Jacquard 12 Charted", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 footer{
     background-color: var(black);

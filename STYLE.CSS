@@ -7,10 +7,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
-    font-family: "Jacquard 12 Charted", system-ui;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 20px;
+   
 }
 footer{
     background-color: var(black);

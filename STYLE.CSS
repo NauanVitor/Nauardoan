@@ -7,14 +7,14 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
-   
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 footer{
     background-color: var(black);
     color: var(--texto);
-    font-family: "Jacquard 12 Charted", system-ui;
-  font-weight: 400;
-  font-style: normal;
+    
 }
 
 header{display: flex;
